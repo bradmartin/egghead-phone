@@ -1,0 +1,5 @@
+<Page>
+    <StackLayout>
+        <Button text="Call home" tap="callHome" />
+    </StackLayout>
+</Page>
